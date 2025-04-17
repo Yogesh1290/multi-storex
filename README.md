@@ -1,4 +1,4 @@
-MernPress (StoreX) is an MVP (Minimum Viable Product) of a no-code SaaS platform that enables users to instantly deploy customizable eCommerce stores. Production Url: https://www.mernpress.com
+MernPress (StoreX) is an MVP (Minimum Viable Product) of a no-code SaaS platform that enables users to instantly deploy customizable eCommerce stores. Website Url: https://www.mernpress.com (Please sign up and sign in using the email method only)
 
 ## ⚠️🚨 IMPORTANT NOTICE - PLEASE READ BEFORE USING 🚨⚠️
 
